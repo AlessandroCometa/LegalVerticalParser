@@ -10,4 +10,4 @@ def env_init():
   return points_val
 
 
-print(env_init()) 
+print(env_init())
